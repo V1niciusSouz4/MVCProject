@@ -11,12 +11,14 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ProvideApplicationPartFactoryAttribute("Microsoft.AspNetCore.Mvc.ApplicationParts.CompiledRazorAssemblyApplicationPartFac" +
+    "tory, Microsoft.AspNetCore.Mvc.Razor")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyProductAttribute("MVC")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a068ab2d16ad44f72a2c40d4afd2a3e7551b023c")]
-[assembly: System.Reflection.AssemblyProductAttribute("MVC")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MVC")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MVC.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
