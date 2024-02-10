@@ -35,3 +35,4 @@ C:\Users\3343.343\source\repos\FB\dot-net-FB\MVC\MVC\bin\Debug\netcoreapp2.1\MVC
 C:\Users\3343.343\source\repos\FB\dot-net-FB\MVC\MVC\obj\Debug\netcoreapp2.1\MVC.Views.pdb
 C:\Users\3343.343\source\repos\FB\dot-net-FB\MVC\MVC\obj\Debug\netcoreapp2.1\MVC.genruntimeconfig.cache
 C:\Users\3343.343\source\repos\FB\dot-net-FB\MVC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CopyComplete
+C:\Users\3343.343\source\repos\FB\dot-net-FB\MVC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

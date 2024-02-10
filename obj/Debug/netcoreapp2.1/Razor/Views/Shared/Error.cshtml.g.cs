@@ -19,12 +19,12 @@ using MVC;
 #line default
 #line hidden
 #line 2 "C:\Users\3343.343\source\repos\FB\dot-net-FB\MVC\MVC\Views\_ViewImports.cshtml"
-using MVC.Models;
+using MVC.Models.ViewModel;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"85d550a6c56e4b4b299c02c9ea16de42a2d0aaa5e499bd90319b1ffa183769e2", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"e94a7c5a86d004ccfbd7fec5627ee6937afd1e9c7f38659830f03e89445872d2", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"858f7a0ce9438ad60758b33646ffd90e66a5a5f44fe28d540ad385c9544fdd6d", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
